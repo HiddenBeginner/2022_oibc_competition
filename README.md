@@ -2,6 +2,8 @@
 
 ![result](result.png)
 
+[2022 POSTECH OIBC CHALLENGE 태양광 발전량 예측 경진대회](https://o.solarkim.com/cmpt2022)에서 대상을 받은 Sun Capturer팀의 솔루션 및 발표 자료입니다.
+
 ## Sun capturer팀
 "태양과 상금을 획득하는 사람"의 의미
 - 조성하 (POSTECH 수학과)
@@ -68,4 +70,5 @@ root
 <br>
 
 ## 문의
-코드 사용에 어려움이나 질문이 있으실 경우 dongjinlee@postech.ac.kr으로 문의해주시면 친절히 답변드리겠습니다.
+코드 사용에 어려움이나 질문이 있으실 경우 dongjinlee@postech.ac.kr으로 문의해주시면 친절히 답변드리겠습니다.<br>
+데이터 제공 문의는 대회 주관사인 [POSTECH 오픈이노베이션 빅데이터 센터 (OIBC)](http://oibc.postech.ac.kr/)로 문의 주시면 감사드리겠습니다.
