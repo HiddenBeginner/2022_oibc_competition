@@ -2,7 +2,7 @@
 
 ![result](result.png)
 
-[2022 POSTECH OIBC CHALLENGE 태양광 발전량 예측 경진대회](https://o.solarkim.com/cmpt2022)에서 대상을 받은 Sun Capturer팀의 솔루션 및 발표 자료입니다.
+[2022 POSTECH OIBC CHALLENGE 태양광 발전량 예측 경진대회](https://o.solarkim.com/cmpt2022)에서 대상 (1등 / 64팀)을 받은 Sun Capturer팀의 솔루션 및 발표 자료입니다.
 
 ## Sun capturer팀
 "태양과 상금을 획득하는 사람"의 의미
